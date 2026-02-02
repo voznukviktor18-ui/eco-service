@@ -1,4 +1,4 @@
-const API_URL = https://script.google.com/macros/s/AKfycbyNs4ZPTFF-Th-snfMBeh4qx7-g8QPqh3YoYZSGKbtFlZ7uegO4aPbAPUxJLAt1gAbycA/exec;
+const API_URL = AKfycbwZJLKL6Qdacq2Emeou82O3alC_2TiB7pthhVoatJBYqM14kn_bdA8NGcjEcJOvwxwrIg;
 const driverSelect = document.getElementById("driverSelect");
 const pinInput = document.getElementById("pin");
 const startBtn = document.getElementById("startShift");
